@@ -1,5 +1,5 @@
 # SWIMMING-POOL-REGULATOR
-https://oshwlab.com/ndibapeter4/wsa-pcb
+
 ![Screenshot 2024-09-10 113739](https://github.com/user-attachments/assets/898ca203-6662-443a-ac23-6db99e3e585c)
 
 # NFC-READER FOR A TRAIN
