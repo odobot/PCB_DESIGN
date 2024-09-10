@@ -17,4 +17,6 @@ used in line tracking robot
 micro-ros motor control learning kit
 ![WhatsApp Image 2024-08-22 at 06 37 44_fead27ea](https://github.com/user-attachments/assets/46265f90-ea3d-4042-9f53-f933ec7b34d7)
 
+# Unihiker GPS & GSM SHIELD - (IN-PROGRESS)
+
 # ASSET TRACKER
