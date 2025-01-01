@@ -24,6 +24,9 @@ micro-ros motor control learning kit
 # ARDUINO-MEGA CUSTOM BOARD
 ![Screenshot 2024-09-10 094339](https://github.com/user-attachments/assets/45413975-3dd6-49a6-98af-1f19cd301ecd)
 
+# ATMEGA32_ROBOT
+![Atmega32_Robot6](https://github.com/user-attachments/assets/9a572d3f-4917-427c-b1f3-0453779fab16)
+
 # IR-ARRAY
 used in line tracking robot
 ![Screenshot 2023-10-16 223526](https://github.com/user-attachments/assets/3f80c788-f739-41b0-afe8-42b773ef7f74)
