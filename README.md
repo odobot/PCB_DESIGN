@@ -1,3 +1,7 @@
+# VEHICLE TELEMATICS
+![TelematicsT4](https://github.com/user-attachments/assets/697e05da-75ac-48a5-a952-0d49d443d33d)
+![TelematicsS8](https://github.com/user-attachments/assets/c3d50f5b-4128-4b48-9f21-52daceb12e2e)
+
 # PENTASLAM BOARD
 ![3D_PCB8_2024-12-30](https://github.com/user-attachments/assets/1a79b1c1-033b-4d4d-aaf9-756cacb93e43)
 
