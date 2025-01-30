@@ -31,6 +31,9 @@ micro-ros motor control learning kit
 # ARDUINO-MEGA CUSTOM BOARD
 ![Screenshot 2024-09-10 094339](https://github.com/user-attachments/assets/45413975-3dd6-49a6-98af-1f19cd301ecd)
 
+# GREENHOUSE PCB
+![pcb1](https://github.com/user-attachments/assets/060ce941-e3f3-4a1a-857d-787a057f362d)
+
 # ATMEGA32_ROBOT
 ![Atmega32_Robot6](https://github.com/user-attachments/assets/9a572d3f-4917-427c-b1f3-0453779fab16)
 
