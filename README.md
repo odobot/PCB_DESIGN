@@ -3,9 +3,12 @@
 ![TelematicsS8](https://github.com/user-attachments/assets/c3d50f5b-4128-4b48-9f21-52daceb12e2e)
 
 # PENTASLAM BOARD
+### https://oshwlab.com/ndibapeter4/hexapod
 ![3D_PCB8_2024-12-30](https://github.com/user-attachments/assets/1a79b1c1-033b-4d4d-aaf9-756cacb93e43)
+![pentaslam](https://github.com/user-attachments/assets/437a5fac-4dd0-4b8a-9410-655a83dc9428)
 
 # HEXAPOD BOARD
+### https://oshwlab.com/ndibapeter4/hexapod
 ![3D_PCB1_2024-12-22](https://github.com/user-attachments/assets/cfee7c00-4da9-4c5b-adaa-ed56789f8609)
 
 # SWIMMING-POOL-REGULATOR
