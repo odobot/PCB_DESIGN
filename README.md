@@ -1,5 +1,5 @@
 # PENTASLAM BOARD V2
-###Fixed issue of overheating that occured in V1.
+### Fixed issue of overheating that occured in V1.
 ![WhatsApp Image 2025-10-11 at 10 57 10 PM](https://github.com/user-attachments/assets/03d9505c-a5d6-4c7d-8bb8-6436e7039032)
 <img width="2160" height="1439" alt="3D_PCB1_2025-09-17 (2)" src="https://github.com/user-attachments/assets/435704e2-9d14-4af8-9499-63bacea8901e" />
 
