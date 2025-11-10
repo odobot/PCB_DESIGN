@@ -1,3 +1,9 @@
+# LORA GATEWAY
+![20251028_104809](https://github.com/user-attachments/assets/15349e2d-cf04-4e89-80e6-f87e1d0cbe34)
+
+# LORA TRACKER
+![20251028_103940](https://github.com/user-attachments/assets/e14fcd86-63f3-452d-8bf5-7a6adbb741e9)
+
 # PENTASLAM BOARD V2
 ### Fixed issue of overheating that occured in V1.
 ![WhatsApp Image 2025-10-11 at 10 57 10 PM](https://github.com/user-attachments/assets/03d9505c-a5d6-4c7d-8bb8-6436e7039032)
@@ -18,7 +24,7 @@
 
 # SWIMMING-POOL-REGULATOR
 ### https://oshwlab.com/ndibapeter4/wsa-pcb
-![Screenshot 2024-09-10 113739](https://github.com/user-attachments/assets/898ca203-6662-443a-ac23-6db99e3e585c)
+<img width="585" height="815" alt="Screenshot From 2025-11-10 09-41-05" src="https://github.com/user-attachments/assets/7f609c9e-a95b-4001-be4d-9562879d1910" />
 
 # CO2_SENSOR_BOARD
 ![CO2_SENSOR](https://github.com/user-attachments/assets/ddf76863-4113-4431-8e07-47f8052b6bce)
